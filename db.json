@@ -6,7 +6,7 @@
   {"ItemCategory": "CAT-2", "ItemName":"Item-4"},
   {"ItemCategory": "CAT-2", "ItemName":"Item-5"},
   {"ItemCategory": "CAT-2", "ItemName":"Item-6"},
-  {"ItemCategory": "CAT-3", "ItemName":"Item-7"},],
+  {"ItemCategory": "CAT-3", "ItemName":"Item-7"}],
   "posts": [
     { "id": 1, "title": "jil 1" },
     { "id": 1, "title": "err 2" },
